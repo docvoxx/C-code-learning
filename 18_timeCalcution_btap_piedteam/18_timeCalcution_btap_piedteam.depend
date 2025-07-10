@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1702503226 source:c:\laptrinhc\baihoccodec\18_timecalcution_btap_piedteam\main.c
+	<stdio.h>
+	<stdlib.h>
+

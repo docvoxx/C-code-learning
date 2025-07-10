@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1702113720 source:c:\laptrinhc\baihoccodec\10_factorial_pieadteam\main.c
+	<stdio.h>
+	<stdlib.h>
+

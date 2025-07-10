@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1584205420 source:c:\laptrinhc\baihoccodec\04_compare3number_piedteam\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1701617595 source:c:\laptrinhc\baihoccodec\04_compare3number_baitap_piedteam\bai2.c
+	<stdio.h>
+	<stdlib.h>
+
+1701617046 source:c:\laptrinhc\baihoccodec\04_compare3number_baitap_piedteam\bai1.c
+
+1701620162 source:c:\laptrinhc\baihoc\04_compare3number_baitap_piedteam\bai1.c
+

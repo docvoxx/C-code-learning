@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1701594944 source:c:\laptrinhc\baihoccodec\03_evenodd_piedteam\main.c
+	<stdio.h>
+	<stdlib.h>
+

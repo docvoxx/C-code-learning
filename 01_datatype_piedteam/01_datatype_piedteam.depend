@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1701251961 source:c:\program files\codeblocks\baihoccodec\01_datatype_piedteam\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1701504233 source:c:\laptrinhc\baihoccodec\01_datatype_piedteam\main.c
+	<stdio.h>
+	<stdlib.h>
+
