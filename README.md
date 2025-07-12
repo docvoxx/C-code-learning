@@ -46,3 +46,19 @@ These exercises were done as part of my study with the **piedTeam core**, a smal
 | `20_sumAllElement_piedTeam` | Sum all elements in an array or list. |
 
 ---
+
+🎉 Goals
+Reinforce core C syntax and logic
+
+Practice writing clean, simple code
+
+Improve problem-solving with small, focused tasks
+
+Document my progress for reflection and sharing
+
+🏷️ License
+This repository is for educational purposes only.
+Feel free to fork or use any file as reference for your own learning!
+
+✨ Credits
+Thanks to piedTeam core for the motivation and guidance on this journey.
