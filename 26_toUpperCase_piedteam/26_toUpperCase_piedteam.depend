@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1703671401 source:c:\laptrinhc\baihoccodec\baihoc\26_touppercase_piedteam\main.c
+	<stdio.h>
+	<stdlib.h>
+

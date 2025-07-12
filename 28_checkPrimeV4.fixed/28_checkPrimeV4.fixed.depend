@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1703929075 source:c:\laptrinhc\baihoccodec\baihoc\28_checkprimev4.fixed\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1703698739 source:c:\laptrinhc\baihoccodec\26_checkprimev1_btap_piedteam\main.c
+	<stdio.h>
+	<stdlib.h>
+

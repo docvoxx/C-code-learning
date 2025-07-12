@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1703699214 source:c:\laptrinhc\baihoccodec\26_checkprimev2_btap_piedteam\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1703771186 source:c:\laptrinhc\baihoccodec\baihoc\26_checkprimev2_btap_piedteam\main.c
+	<stdio.h>
+	<stdlib.h>
+

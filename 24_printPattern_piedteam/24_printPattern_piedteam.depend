@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1703067037 source:c:\laptrinhc\baihoccodec\24_printpattern_piedteam\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1703067782 source:c:\laptrinhc\baihoccodec\baihoc\24_printpattern_piedteam\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1705458081 source:c:\laptrinhc\baihoc\24_printpattern_piedteam\main.c
+	<stdio.h>
+	<stdlib.h>
+
